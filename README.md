@@ -18,7 +18,13 @@
 
 3 三维模型更换法线贴图、纹理贴图  
 
-4 三维模型格式转换 
+4 三维模型格式转换  
+## 快速开始 
+```
+npm install
+
+npm run dev
+```
 
 
 <img width="1280" alt="微信图片_20250507154109" src="https://github.com/user-attachments/assets/dab1743f-fee1-499b-b5db-ce145e072a15" />
