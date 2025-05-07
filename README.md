@@ -1,4 +1,4 @@
-![微信图片_20250507163440](https://github.com/user-attachments/assets/141d7a02-8017-4f90-b0f2-9be260be4a6a)# 3DEditor
+# 3DEditor
 基于three.js+vite+element-plus开发的三维编辑器 
 
 ## 核心依赖版本
