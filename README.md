@@ -30,11 +30,11 @@ https://github.com/user-attachments/assets/b1044830-709a-4a4c-9ace-55bf1b9fedc0
  # 联系 
  ## 1 完整版本、工作内推（武汉） 
 
- <img src="https://github.com/user-attachments/assets/16a23a4f-2687-4848-8be7-b39eae562ee1" width="500" height="500"> 
+ <img src="https://github.com/user-attachments/assets/16a23a4f-2687-4848-8be7-b39eae562ee1" width="400" height="400"> 
  
   ## 2 请我喝咖啡  
   
-   <img src="https://github.com/user-attachments/assets/bf266697-9710-46ef-9673-9bd6c4d4acfd" width="500" height="500"> 
+   <img src="https://github.com/user-attachments/assets/bf266697-9710-46ef-9673-9bd6c4d4acfd" width="400" height="400"> 
 
 
 
